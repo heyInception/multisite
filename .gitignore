@@ -1,4 +1,4 @@
-/wp-content/themes/twenty* 
+/wp-content/cache/
 /wp-content/upgrade 
 /wp-content/uploads 
 /sitemap.* 
@@ -8,3 +8,4 @@
 *Thumbs.db 
 *.sass-cache* 
 *~imageoptim*
+.htaccess
