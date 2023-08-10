@@ -57,6 +57,7 @@
 
 <body <?php body_class('page__body'); ?>>
 	<p>Hello World</p>
+	<p>Hello World, Again</p>
 	<div id="page" class="<?php if (get_locale() == 'en_US') : ?>wz-english<?php endif; ?> site">
 		<header class="header">
 			<div class="container">
