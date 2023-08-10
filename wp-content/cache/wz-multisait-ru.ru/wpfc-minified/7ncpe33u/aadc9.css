@@ -1,0 +1,20 @@
+.reviews .reviews__audio a.plyr__control, .reviews .reviews__audio .plyr__volume{display:none;}
+.reviews .reviews__audio .plyr__controls{background:#DBEFDC;width:100%;height:56px;padding:12px 21px 12px 20px;border-radius:28px;}
+.reviews .reviews__audio button.plyr__control{width:31px;height:31px;border-radius:50%;border:3px solid #4CAF50;padding:4px 4px 4px 5px;margin:0;}
+.reviews .reviews__audio button.plyr__control:hover, .reviews .reviews__audio button.plyr__control:focus{background:#fff;}
+.reviews .reviews__audio button.plyr__control.plyr__control--pressed{padding:4px;background:#fff;}
+.reviews .reviews__audio .plyr__control svg{width:18px;height:13px;fill:#4CAF50;}
+.reviews .reviews__audio .plyr__progress__container{margin-left:10px;margin-right:15px;width:220px;flex:unset;}
+.reviews .reviews__audio .plyr__progress{width:200px;margin:0;}
+.reviews .reviews__audio .plyr__progress input, .reviews .reviews__audio .plyr__progress__buffer{width:100%;}
+.reviews .reviews__audio .plyr__progress__buffer{background:#B8B8B8;}
+.reviews .reviews__audio .plyr--full-ui input[type="range"]{color:#4CAF50;height:20px;}
+.reviews .reviews__audio .plyr--audio .plyr__controls{color:#757575;justify-content:flex-start;}
+.reviews .reviews__audio .plyr__controls .plyr__controls__item.plyr__time{padding:0;margin:0;font-size:14px;font-weight:600;line-height:20px;font-family:'Roboto', sans-serif;}
+@media screen and (max-width:1199px){
+.reviews .reviews__audio .plyr__progress{width:147px;}
+.reviews .reviews__audio .plyr__progress__container{margin-right:16px;}
+}
+.wz-english .faq {
+background-color: #DBEFDC59;
+}

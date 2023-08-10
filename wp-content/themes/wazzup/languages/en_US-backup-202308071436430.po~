@@ -1,0 +1,639 @@
+# Copyright (C) 2020 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/_s\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-04-17T21:03:15+00:00\n"
+"PO-Revision-Date: 2023-08-07 14:35+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: _s\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: template-parts/main-page/first-screen.php:17
+msgid "3 дня на тест"
+msgstr "3 days for trial"
+
+#: template-parts/main-page/app.php:20 template-parts/main-page/app.php:27
+#: template-parts/main-page/app.php:41 template-parts/main-page/app.php:48
+msgid "4,4 из 5"
+msgstr "4,4/5"
+
+#: template-parts/main-page/integration.php:17
+msgid ""
+"99,7% времени Wazzup работает <br> без перебоев, а вы — остаетесь <br> на "
+"связи с клиентами."
+msgstr ""
+"Wazzup runs smoothly 99.7% of the time, <br>\n"
+"keeping you in touch with clients."
+
+#: template-parts/main-page/faq.php:47
+msgid ""
+"<p> Да, делаем. С Мегапланом, Planfix, EnvyCRM и еще 30+. Узнать точно, есть "
+"ли интеграция с нами, можно в маркетплейсе своей CRM.</p><p>Если у вас "
+"кастомная CRM, вы можете подключить <a href=\"\">Wazzup по API</a>. Крупным "
+"компаниям, где сервисом будет пользоваться более 50 человек, мы сами делаем "
+"интеграцию по API. Просто оставьте заявку — и мы поможем.</p>"
+msgstr ""
+"<p>If your CRM isn’t on the list, you can use <a href=\"\">Wazzup via API</a>"
+". </p>"
+
+#: template-parts/main-page/faq.php:31
+msgid ""
+"<p> Да. Причем, если вы пользуетесь одним номером на всех менеджеров, то "
+"менеджеры будут видеть групповые чаты только со своими клиентами и не будут "
+"видеть чужие. </p>"
+msgstr ""
+"<p>Yes. Moreover, if you use one number for all sales reps, they will see "
+"group chats only with their clients, not with anyone else.</p>"
+
+#: template-parts/main-page/faq.php:39
+msgid ""
+"<p>WhastApp Web, WhatsApp Business API, Instagram, Telegram, Vk, Avito. "
+"Можем подключить хоть все сразу. Даже если их будет несколько, отвечать "
+"клиентам из разных мессенджеров сможете из одного окна.</p>"
+msgstr ""
+"p>We can integrate WhatsApp Business API, Telegram, and Instagram, any of "
+"them or all at once. Even if there are several messengers, you can respond "
+"to clients from one window.</p>"
+
+#: template-parts/main-page/faq.php:63
+msgid ""
+"<p>Да, без проблем. Можно пересадить всех продавцов на один канал, а можно "
+"каждому сделать отдельный.</p><p>Если у вас крупная компания, оставьте "
+"заявку, и мы расскажем, чем можем помочь.</p><a href=\"\"><button>Оставить "
+"заявку</button></a>"
+msgstr ""
+"<p>Yes, no problem. It’s possible to move all sales reps to one channel or "
+"create a separate one for each.</p>"
+
+#: template-parts/main-page/faq.php:55
+msgid ""
+"<p>Да, все продавцы будут переписываться из CRM или нашего мобильного "
+"приложения, но переписки друг друга видеть не будут. </p>"
+msgstr ""
+"<p>Yes, all sales reps will text using CRM or our mobile app but will not "
+"see each other’s messages.</p>"
+
+#: template-parts/main-page/faq.php:79
+msgid ""
+"<p>Да, можем подключить Roistat, CoMagic и любую другую аналитику, которая "
+"работает на google id и yandex id.</p>"
+msgstr ""
+"<p>Yes, we can set up integration with Roistat, CoMagic, and any other "
+"analytics system that works with Google ID.</p>"
+
+#: template-parts/main-page/faq.php:71
+msgid ""
+"<p>Да, у нас есть компании, которые так работают. Например, DNS. У каждого "
+"отделения — свой телефон, но менеджеры одного филиала пользуются единым "
+"номером. Причем, когда на этот телефон приходят новые обращения, они "
+"распределяются именно по менеджерам филиала.</p>"
+msgstr ""
+"<p>Yes, we have companies that operate this way. Each branch has its own "
+"phone number, which is used by all sales reps at that branch. When new "
+"inquiries are made to this number, they are distributed among the sales reps "
+"of this branch.</p>"
+
+#: template-parts/main-page/faq.php:14
+msgid ""
+"<p>Да, через нас можно подключить WhatsApp Business API. А еще можно подать "
+"заявку на верификацию, согласовать шаблоны и получить зеленую галку. За "
+"подробностями и помощью приходите <a href=\"\">в нашу поддержку.</a></p>"
+msgstr ""
+"<p>Yes, we do. You can integrate WhatsApp Business API with CRM. Do it "
+"yourself or contact our <a href=\"/contact-en/\">support team</a> for "
+"assistance. We can help you to apply for verification, agree the templates, "
+"get a green tick.</p>"
+
+#: template-parts/main-page/faq.php:23
+msgid ""
+"<p>Можно, для этого отлично подходит WhatsApp Business API. Вы сможете без "
+"ограничений отправлять рассылки, а также вставлять в сообщения кнопки, чтобы "
+"поднять конверсию.</p>"
+msgstr ""
+"<p>It’s possible, WhatsApp Business API is great for this. You can send out "
+"unlimited bulk messages and add buttons to messages to boost the conversion "
+"rate.</p>"
+
+#: functions.php:127
+msgid "Add widgets here."
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:40
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Description of the theme
+msgid "Description"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "http://underscores.me/"
+msgstr ""
+
+#: footer.php:16
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/main-page/reviews.php:34
+msgid "IT-директор"
+msgstr "IT-директор"
+
+#. %s: post title
+#: inc/template-tags.php:83
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: template-parts/main-page/first-screen.php:26
+msgid ""
+"Market leader in messenger integration — <span style=\"color:#4CAF50\">14,"
+"000</span> current business clients"
+msgstr ""
+"Market leader in messenger integration — <span style=\"color:#4CAF50\">14,"
+"000</span> current business clients"
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#: single.php:24
+msgid "Next:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:46
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+msgid "Posted in %1$s"
+msgstr ""
+
+#: single.php:23
+msgid "Previous:"
+msgstr ""
+
+#: functions.php:52
+msgid "Primary"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/main-page/reviews.php:54
+msgid "SalesChef"
+msgstr ""
+
+#. %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:125
+msgid "Sidebar"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+msgid "Tagged %1$s"
+msgstr ""
+
+#: template-parts/main-page/call.php:28
+msgid "Telegram"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:25
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. Author of the theme
+msgid "Underscores.me"
+msgstr ""
+
+#. Name of the theme
+msgid "wazzup"
+msgstr ""
+
+#: template-parts/main-page/call.php:12
+msgid "WhatsApp"
+msgstr ""
+
+#: template-parts/main-page/faq.php:36
+msgid "А какие еще мессенджеры подключаете?"
+msgstr "What other messengers do you serve?"
+
+#: template-parts/main-page/faq.php:20
+msgid "А рассылки делать можно?"
+msgstr "Is bulk messaging possible?"
+
+#: template-parts/main-page/reviews.php:56
+msgid "Автоматизация продаж <br> на базе AmoCRM"
+msgstr "Автоматизация продаж на базе AmoCRM"
+
+#: template-parts/main-page/no-problems.php:4
+msgid "Больше никаких проблем с переписками в отделе продаж"
+msgstr "No more problems with correspondence in the sales team"
+
+#: template-parts/main-page/reviews.php:18
+msgid "Вагимагия"
+msgstr "Вагимагия"
+
+#: template-parts/main-page/integration.php:7
+msgid "Волк не сдует."
+msgstr "The Big Bad Wolf won’t blow it down."
+
+#: template-parts/main-page/app.php:34
+msgid "Всегда и везде оставайтесь на связи с клиентами"
+msgstr "Stay in touch with your clients always and everywhere"
+
+#: header.php:58 header.php:60
+msgid "Вход"
+msgstr "Log in"
+
+#: template-parts/main-page/no-problems.php:29
+msgid ""
+"Вы будете точно знать сколько, когда и с кем переписывался продавец. А "
+"продавцы будут знать, что вы знаете. Отмазок больше не будет."
+msgstr ""
+"You will know exactly how much, when, and with whom a sales rep corresponded."
+" And the sales\n"
+"rep will know that you know. There will be no more cop-outs."
+
+#: template-parts/main-page/faq.php:28
+msgid "Вы поддерживаете групповые чаты?"
+msgstr "Do you support group chats?"
+
+#: template-parts/main-page/tariff.php:5
+msgid "Выберите свой тариф"
+msgstr ""
+
+#: template-parts/main-page/reviews.php:36
+msgid "ГК «Сладкая сказка»"
+msgstr ""
+"ГК «Сладкая сказка»\n"
+
+#: template-parts/main-page/reviews.php:14
+msgid "Гузель Хисамеева"
+msgstr ""
+"Гузель Хисамеева\n"
+
+#: template-parts/main-page/reviews.php:16
+msgid "Директор по продажам"
+msgstr ""
+"Директор по продажам\n"
+
+#: template-parts/main-page/reviews.php:32
+msgid "Дмитрий Ветров"
+msgstr ""
+"Дмитрий Ветров\n"
+
+#: template-parts/main-page/integration.php:21
+#: template-parts/main-page/integration.php:22
+#: template-parts/main-page/integration.php:25
+msgid "Доставляем 100% сообщений"
+msgstr "We deliver 100% of messages"
+
+#: template-parts/main-page/no-problems.php:13
+msgid ""
+"Если продавец заболел, ушел в отпуск или уволился, вы сможете в несколько "
+"кликов перекинуть клиентов на другого сотрудника."
+msgstr ""
+"If a sales rep is sick, on vacation, or leaves the company, you can transfer "
+"clients to another \n"
+"employee in just a few clicks."
+
+#: template-parts/main-page/integration.php:27
+msgid ""
+"За одну секунду каждое <br> сообщение попадет в CRM, <br> а не в Нарнию."
+msgstr ""
+"In a second, each message goes to CRM,\n"
+"not Narnia."
+
+#: template-parts/main-page/thanks.php:11
+msgid "Им больше <br> не нужно"
+msgstr ""
+"Now they don’t <br>\n"
+"need to..."
+
+#: template-parts/main-page/reviews.php:5
+msgid "Как нас хвалят клиенты"
+msgstr ""
+"Как нас хвалят клиенты\n"
+
+#: template-parts/main-page/no-problems.php:10
+msgid "Клиенту ответят, даже если его менеджер в отпуске"
+msgstr "The client receives a reply even if their sales rep is on vacation"
+
+#: template-parts/main-page/messendger.php:54
+#: template-parts/main-page/messendger.php:61
+msgid "Контакты и сделки для новых клиентов создаются автоматически"
+msgstr "Contacts and deals for new clients are created automatically"
+
+#: template-parts/main-page/integration.php:31
+#: template-parts/main-page/integration.php:32
+#: template-parts/main-page/integration.php:35
+msgid "Круглосуточно на связи"
+msgstr "Answering your queries 24/7"
+
+#: template-parts/main-page/no-problems.php:37
+msgid "Круть. Теперь все будет по-другому!"
+msgstr "That’s better!"
+
+#: template-parts/main-page/companiens.php:6
+msgid ""
+"Лидер на рынке интеграций мессенджеров — <span "
+"class=\"companiens__title_green\">14 000 компаний </span>уже с нами"
+msgstr ""
+"Лидер на рынке интеграций мессенджеров — <span "
+"class=\"companiens__title_green\">14 000 компаний </span>уже с нами"
+
+#: template-parts/main-page/messendger.php:53
+#: template-parts/main-page/messendger.php:60
+msgid "Менеджер видит только свои переписки, а руководитель— все"
+msgstr ""
+"A sales rep sees only their own chats, the leader sees everyone’s chat "
+"history"
+
+#: template-parts/main-page/faq.php:60
+msgid "Можно ли использовать Wazzup, если у меня много менеджеров?"
+msgstr "Can I use Wazzup if I have many sales reps?"
+
+#: template-parts/main-page/integration.php:5
+msgid "Надежная интеграция — настроил и забыл"
+msgstr "Seamless integration: set up and forget"
+
+#: template-parts/main-page/messendger.php:6
+msgid "Наконец-то продавать в мессенджерах будет удобно"
+msgstr "Finally, selling through messengers done easy"
+
+#: template-parts/main-page/call.php:15 template-parts/main-page/call.php:31
+msgid "Написать"
+msgstr ""
+
+#: template-parts/main-page/call.php:13 template-parts/main-page/call.php:14
+#: template-parts/main-page/call.php:29 template-parts/main-page/call.php:30
+msgid "Написать с компа"
+msgstr "Write from a PC"
+
+#: template-parts/main-page/no-problems.php:21
+msgid ""
+"Не теряйте клиентов только потому, что сотрудник ушел и уволок переписку в "
+"личном телефоне. Теперь все диалоги будут сохраняться в одном месте — в CRM."
+msgstr ""
+"Don’t lose clients simply because an employee left and took all their chat "
+"history with them\n"
+"on their personal phone. Now all dialogs will be saved in one place — CRM."
+
+#: template-parts/main-page/app.php:35
+msgid ""
+"Неважно, где вы: у кулера, в дороге или в очереди к банкомату. <br> Пишите "
+"клиентам из мобильного приложения Wazzup — все переписки сохранятся в CRM и "
+"будут доступны с компа."
+msgstr ""
+"It doesn’t matter where you are: at the water cooler, on the road, or out "
+"for coffee. Write to clients from the Wazzup mobile app — all correspondence "
+"is saved in CRM and accessible from your computer."
+
+#: template-parts/main-page/reviews.php:50
+msgid "Никита Аверкин"
+msgstr "Никита Аверкин"
+
+#: template-parts/main-page/no-problems.php:26
+msgid "Никто не скажет «Мало звонил, потому что переписывался»"
+msgstr "No one says \"didn’t call much because of messaging\""
+
+#: template-parts/main-page/messendger.php:56
+msgid "Один номер для всего отдела продаж"
+msgstr "Один номер для всего отдела продаж"
+
+#: template-parts/main-page/reviews.php:52
+msgid "Основатель"
+msgstr "Основатель"
+
+#: template-parts/main-page/call.php:5
+msgid "Отвечаем на любые вопросы за 5 минут, 24/7"
+msgstr "Answering any questions in 5 minutes, 24/7"
+
+#: header.php:39
+msgid "Открыть меню"
+msgstr "Open menu"
+
+#: template-parts/main-page/messendger.php:57
+#: template-parts/main-page/messendger.php:63
+msgid "Отправка автоматических сообщений"
+msgstr "Routine messages are sent automatically"
+
+#: template-parts/main-page/messendger.php:55
+#: template-parts/main-page/messendger.php:62
+msgid "Переписка сохраняется в CRM"
+msgstr "Chat history is stored in CRM"
+
+#: template-parts/main-page/first-screen.php:6
+msgid ""
+"Пишите первым в <span style=\"color:#4CAF50\">WhatsApp</span> и <span "
+"style=\"color:#0088CC\">Telegram</span> прямо из CRM:"
+msgstr ""
+"Contact the client <br> via <span style=\"color:#4CAF50\"> WhatsApp</span> "
+"<br>directly from CRM"
+
+#: template-parts/main-page/integration.php:37
+msgid ""
+"Поддержка отвечает на любой <br> вопрос за 5 минут. Днем, ночью <br> или в 6 "
+"утра первого января."
+msgstr ""
+"Support responds to any question in 5 minutes. Day, night, or 6am on "
+"Christmas morning."
+
+#: template-parts/main-page/faq.php:11
+msgid "Подключаете официальный WhatsApp?"
+msgstr "Do you connect the WhatsApp Business API?"
+
+#: template-parts/main-page/thanks.php:84
+#: template-parts/main-page/thanks.php:85
+#: template-parts/main-page/first-screen.php:12
+#: template-parts/main-page/first-screen.php:13
+msgid "Попробывать бесплатно"
+msgstr "Try for free"
+
+#: template-parts/main-page/no-problems.php:18
+msgid "Продавец не унесет историю общения с клиентом"
+msgstr "The sales reps’ chat history stays in the company"
+
+#: template-parts/main-page/messendger.php:49
+msgid "Продавцы пишут в WhatsApp и Telegram прямо из CRM"
+msgstr "Sales reps text in WhatsApp directly from CRM"
+
+#: template-parts/main-page/thanks.php:6
+msgid "Продавцы скажут вам «спасибо»"
+msgstr "Your sales reps will thank you"
+
+#: template-parts/main-page/first-screen.php:9
+msgid ""
+"Простая интеграция WhatsApp и Telegram с amoCRM и Битрикс. <br> Подключение "
+"за 5 минут без разработчиков и черной магии."
+msgstr ""
+"Simple WhatsApp integration with popular CRMs.<br class=\"wz24-paragraph-"
+"desktop\"> Easily connect in 5 minutes — no developers needed."
+
+#: template-parts/main-page/thanks.php:8
+msgid ""
+"Работать в CRM станет проще, быстрее и удобнее. В системе будет полный "
+"порядок, а продавцы не будут делать для этого дополнительной работы."
+msgstr ""
+"Using CRM becomes easier and quicker. The system runs smoothly, requiring no "
+"extra effort from sales reps."
+
+#: header.php:59 header.php:61
+msgid "Регистрация"
+msgstr "Registration"
+
+#: template-parts/main-page/faq.php:76
+msgid "Сквозную аналитику можете подключить?"
+msgstr "Can you hook up end-to-end analytics?"
+
+#: template-parts/main-page/reviews.php:38
+msgid "Создатели Фру-Фру, Бобс, Зефирюшек <br> и других ништяков"
+msgstr ""
+"Создатели Фру-Фру, Бобс, Зефирюшек и других ништяков\n"
+
+#: template-parts/main-page/integration.php:11
+#: template-parts/main-page/integration.php:12
+#: template-parts/main-page/integration.php:15
+msgid "Стабильно работаем"
+msgstr "We are robust"
+
+#: template-parts/main-page/messendger.php:22
+#: template-parts/main-page/messendger.php:27
+#: template-parts/main-page/messendger.php:33
+#: template-parts/main-page/messendger.php:39
+msgid "Так выглядят чаты в CRM"
+msgstr "Here’s how chats appear in CRM"
+
+#: template-parts/main-page/faq.php:52
+msgid "У каждого моего менеджера свой номер, подойдет ли мне сервис?"
+msgstr "All my sales reps have their own numbers, is the service for me?"
+
+#: template-parts/main-page/faq.php:44
+msgid "У меня не Битрикс и не amoCRM. Вы делаете интеграции с другими CRM?"
+msgstr ""
+"I don’t have any of the CRMs on the list. Do you integrate with other CRMs?"
+
+#: template-parts/main-page/faq.php:68
+msgid ""
+"У меня несколько филиалов с разными номерами. Сервис подойдет для такого "
+"кейса?"
+msgstr ""
+"I have several branches with different numbers. Is the service suitable in "
+"this case?"
+
+#: template-parts/main-page/integration.php:41
+msgid "Убедиться лично"
+msgstr "Explore now"
+
+#: template-parts/main-page/faq.php:5
+msgid "Что у нас часто спрашивают"
+msgstr ""
+
+#: template-parts/main-page/reviews.php:20
+msgid "Школа интимной гимнастики <br> с 5,3 млн подписчиков"
+msgstr ""
+"Школа интимной гимнастики с 5,3 млн подписчиков\n"
+
+#: template-parts/main-page/call.php:16 template-parts/main-page/call.php:32
+msgid "или <span>с телефона</span>"
+msgstr "or <span>a phone</span>"

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" version="2.0">
+<channel>
+	<turbo:cms_plugin>C125AEEC6018B4A0EF9BF40E6615DD17</turbo:cms_plugin>
+	<title>Wazzup - интеграция WhatsApp и Instagram с amoCRM, Битрикс24, Planfix, Envy CRM, Мегаплан, Zoho</title>
+	<link>https://wz-multisait-ru.ru</link>
+	<description>Cервис для интеграции WhatsApp и Instagram с CRM-системами и Help-desk&#039;ами</description>
+								<language>ru</language>
+	<generator>RSS for Yandex Turbo v1.32 (https://wordpress.org/plugins/rss-for-yandex-turbo/)</generator>
+					<item turbo="true">
+			<title>Привет, мир!</title>
+		<link>https://wz-multisait-ru.ru/blog/2023/05/19/privet-mir/</link>
+		<turbo:topic>Привет, мир!</turbo:topic>
+		<turbo:source>https://wz-multisait-ru.ru/blog/2023/05/19/privet-mir/</turbo:source>
+														<pubDate>Wed, 09 Aug 2023 14:10:40 +0300</pubDate>
+								<turbo:content><![CDATA[
+				<header>
+						<h1>Привет, мир!</h1>
+					</header>
+								<p>Это пример страницы. От записей в блоге она отличается тем, что остаётся на одном месте и отображается в меню сайта (в большинстве тем). На странице «Детали» владельцы сайтов обычно рассказывают о себе потенциальным посетителям. Например, так:</p>
+<p><!-- /wp:paragraph --><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p>Привет! Днём я курьер, а вечером — подающий надежды актёр. Это мой блог. Я живу в Ростове-на-Дону, люблю своего пса Джека и пинаколаду. (И ещё попадать под дождь.)</p></blockquote>
+<p><!-- /wp:quote --><!-- wp:paragraph --></p>
+<p>&#8230;или так:</p>
+<p><!-- /wp:paragraph --><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p>Компания «Штучки XYZ» была основана в 1971 году и с тех пор производит качественные штучки. Компания находится в Готэм-сити, имеет штат из более чем 2000 сотрудников и приносит много пользы жителям Готэма.</p></blockquote>
+<p><!-- /wp:quote --><!-- wp:paragraph --></p>
+<p>Перейдите <a href="http://wz-multisait-ru.ru/wp-admin/">в консоль</a>, чтобы удалить эту страницу и создать новые. Успехов!<!-- Секция: Подвал --></p>												]]></turbo:content>
+			</item>
+</channel>
+</rss>
